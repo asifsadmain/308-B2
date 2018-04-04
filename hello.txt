@@ -3,3 +3,5 @@ hello world
 heelllloooo!
 
 feature1 added
+
+feature 2 is very hot
